@@ -1,0 +1,36 @@
+
+
+@font-face {
+    font-family: 'ComicMono';
+    src: url('../fonts/ComicMono.ttf') format('truetype');
+}
+
+
+:root {
+    /* reset CSS variables */
+    --pst-font-family-base: Georgia, serif;
+    --pst-font-family-monospace: 'ComicMono', 'Courier New', monospace;
+}
+
+
+body, 
+.header-article, .headerbtn, 
+#site-navigation, #search-input, #bd-toc-nav
+{
+    background-color: #f5f2e8; /* newspaper off-white */
+}
+
+
+iframe {
+    border: none;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.site-logo {
+    padding: 10px;
+}
+

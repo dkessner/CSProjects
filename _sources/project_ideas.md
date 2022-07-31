@@ -1,13 +1,11 @@
 # Project ideas
 
-
-
 ## Prior work
 
-[2022 Coding Projects](http://stem.marlborough.org/blog/csprojects2022/)  
-[2021 Coding Projects (videos unavailable)](http://stem.marlborough.org/blog/csprojects2021/)  
-[2020 Coding Projects (videos unavailable)](http://stem.marlborough.org/blog/csprojects2020/)  
-[2019 Coding Projects](http://stem.marlborough.org/blog/csprojects-2019/)  
+[2022 Projects](http://stem.marlborough.org/blog/csprojects2022/)  
+[2021 Projects (videos unavailable)](http://stem.marlborough.org/blog/csprojects2021/)  
+[2020 Projects (videos unavailable)](http://stem.marlborough.org/blog/csprojects2020/)  
+[2019 Projects](http://stem.marlborough.org/blog/csprojects-2019/)  
 
 ## Video Projections - All School Dance Concert
 

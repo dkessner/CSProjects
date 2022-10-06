@@ -13,7 +13,7 @@ float rate = 5;
 
 void setup()
 {
-    size(800, 600, P2D);
+    size(1200, 800, P2D);
     //createTexture();
     imgBall = loadImage("ball.png");
 
@@ -96,12 +96,17 @@ class Particle
     PVector velocity;
     int birthtime;
     final int lifetime = 5000;
+    int c;
 
     Particle(PVector p, PVector v)
     {
         position = p;
         velocity = v;
         birthtime = millis();
+
+        // choose color by randomizing the hue, but storing as RGB
+        colorMode(HSB);
+        c = color(random(0, 20), 255, 255);
     }
     
     void display()
@@ -109,6 +114,8 @@ class Particle
         // increase transparency with time
 
         int a = (int)map(millis(), birthtime, birthtime + lifetime, 255, 0);
+        colorMode(RGB);
+        //tint(c, a);
         tint(255, a);
 
         // draw and update position

@@ -2,9 +2,9 @@
 
 ## CS Projects
 
-This is the website for CS Projects 2022-23, at Marlborough School in Los
-Angeles, taught by Dr. Darren Kessner, Program Head for Computer Science and
-Software Innovation.
+This is the website for the Honors Computer Science Projects course at
+Marlborough School in Los Angeles, taught by Dr. Darren Kessner, Program
+Head for Computer Science and Software Innovation.
 
 Thank you to Marlborough School for continuing to support equity and
 innovation in education.
@@ -18,7 +18,7 @@ innovation in education.
 
 ## Project 
 
-[CSProjects 2022-23 repo](https://github.com/dkessner/CSProjects)  
+[CSProjects repo](https://github.com/dkessner/CSProjects)  
 
 The previous version of this website used the
 [Jekyll](https://jekyllrb.com/) static site generator:  

@@ -6,6 +6,11 @@ Marlborough School, Los Angeles
 
 [live site](https://dkessner.github.io/CSProjects/)  
 
+## Other stuff
+
+[venv tutorial](hello_venv/readme.md)
+
+
 ## Previous website
 
 [CS Projects 2021-22 website](https://dkessner.github.io/CSProjects_2021-22/)  

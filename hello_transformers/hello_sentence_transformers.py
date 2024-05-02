@@ -2,21 +2,22 @@
 
 from sentence_transformers import SentenceTransformer, util
 
-base_sentence = "I'm ecstatic"
-sentences = ["I'm happy", "I'm full of happiness", "I'm elated",
-        "I'm sad", "I'm poor", "The quick brown fox"]
 
 model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
-print("base sentence:", base_sentence)
+my_sentence = "I'm ecstatic"
 
-embedding_1= model.encode(base_sentence, convert_to_tensor=True)
+sentences = ["I'm happy", "I'm full of happiness", "I'm elated",
+             "I'm sad", "I'm poor", "The quick brown fox"]
+
+print("my_sentence:", my_sentence)
+
+my_sentence_encoded = model.encode(my_sentence, convert_to_tensor=True)
 
 for sentence in sentences:
-    embedding_2 = model.encode(sentence, convert_to_tensor=True)
-    result = util.pytorch_cos_sim(embedding_1, embedding_2)
+    sentence_encoded = model.encode(sentence, convert_to_tensor=True)
+    result = util.pytorch_cos_sim(sentence_encoded, my_sentence_encoded)
     value = result.item()
     print(sentence, value)
-
 
 

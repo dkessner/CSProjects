@@ -99,7 +99,7 @@ int state = 0;
 
 void drawKaleidoscope(PGraphics pg)
 {
-    int n = 7;
+    final int n = 7;
     for (int i=0; i<n; i++)
     {
         pushMatrix();

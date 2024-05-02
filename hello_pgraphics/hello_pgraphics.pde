@@ -11,6 +11,7 @@ void setup()
     size(400, 400);
 
     pg = createGraphics(200, 200);
+    drawInsidePG();
 }
 
 
@@ -42,7 +43,6 @@ void draw()
 
     // draw into the offscreen buffer (the PGraphics object)
 
-    drawInsidePG();
 
     // use the offscreen buffer as an image
 

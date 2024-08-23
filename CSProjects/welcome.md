@@ -15,12 +15,9 @@ Some opportunities we will have this year:
 - video projections for the All School Dance Concert, in collaboration with our
   student dancers and choreographers
 
-- data analysis and visualization in partnership with local non-profit
-  organizations, in collaboration with our Social Justice and Community
-  Partnerships Program
+- special effects for the theater productions
 
-- web-based visual novels / narrative video games, in collaboration with the
-  History and Social Sciences Department
+- interactive US election 2024 map
 
 - anything else you're interested in!
 

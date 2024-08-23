@@ -2,8 +2,8 @@
 
 ## Assignments and Grading
 
-Your grade will be based on managing and delivering your projects on time.  You
-might have multiple (or even simultaneous) projects.
+Your grade will be based on managing your software projects, and delivering
+them on time.  You might have multiple (or even simultaneous) projects.
 
 You will present your project(s) regularly at Show & Tell.  You will also
 document your progress in your Project Log.  At each checkpoint (Show & Tell +

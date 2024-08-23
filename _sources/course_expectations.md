@@ -23,4 +23,8 @@ If you're involved in a production (e.g. the All School Dance Concert) you will
 likely need to spend extra time outside of class.  During those times, please
 feel free to use class time as you need it.
 
+## Resources
+
+All software and/or other learning materials for the course will be free and
+open source.
 

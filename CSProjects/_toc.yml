@@ -5,4 +5,6 @@ format: jb-book
 root: welcome
 chapters:
 - file: project_ideas
+- file: syllabus
+- file: course_expectations
 - file: about

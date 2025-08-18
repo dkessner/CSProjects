@@ -1,0 +1,20 @@
+site_name: Honors Computer Science Projects
+site_url: https://dkessner.github.io/CSProjects
+
+theme:
+  name: material
+  palette: 
+    primary: deep orange
+  logo: images/phyllotaxis_orange.png
+
+extra_css:
+  - style.css
+
+nav:
+  - Home: index.md
+  - welcome.md
+  - project_ideas.md
+  - syllabus.md
+  - course_expectations.md
+  - about.md
+

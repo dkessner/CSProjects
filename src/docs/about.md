@@ -42,9 +42,9 @@ Text: Creative Commons Attribution-ShareAlike 4.0 International License
 
 This project relies solely on open source software and tools.
 
-- [JupyterBook](https://jupyterbook.org/en/stable/intro.html): documentation
-  and static site generator, built on top of a large collection of open
-  source software, including [Python](https://www.python.org/),
+- [Mkdocs Material](https://squidfunk.github.io/mkdocs-material/):
+  documentation and static site generator, built on top of a large collection
+  of open source software, including [Python](https://www.python.org/),
   [LaTeX](https://www.latex-project.org/), and
   [Markdown](https://daringfireball.net/projects/markdown/).
 - [p5.js](https://p5js.org/): JavaScript graphics library for creative coding

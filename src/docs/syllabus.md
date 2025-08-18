@@ -1,11 +1,11 @@
 # Syllabus
 
 __Honors Computer Science Projects__  
-__2024-25__  
+__2025-26__  
 __Dr. Kessner__  
 __Marlborough School, Los Angeles__  
 
-__Free periods: FI in D215__
+__Free periods: CE in D215__
 
 ## Course Description
 

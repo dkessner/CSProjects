@@ -11,7 +11,7 @@ innovation in education.
 
 <a href="https://www.marlborough.org/">
 <div style="background-color:white; text-align:center; width:50%; margin: 0 auto;">
-<img src="images/Mvision.jpg" width="70%">
+<img src="../images/Mvision.jpg" width="70%">
 </div>
 </a>
 
@@ -20,7 +20,11 @@ innovation in education.
 
 [CSProjects repo](https://github.com/dkessner/CSProjects)  
 
-The previous version of this website used the
+The previous version of this website used
+[JupyterBook](https://jupyterbook.org/en/stable/intro.html).     
+[CSProjects 2023-25 repo](https://github.com/dkessner/CSProjects_2023-25)    
+
+The previous previous version of this website used the
 [Jekyll](https://jekyllrb.com/) static site generator:  
 [CSProjects 2021-22 website](https://dkessner.github.io/CSProjects_2021-22/)  
 [CSProjects 2021-22 repo](https://github.com/dkessner/CSProjects_2021-22)

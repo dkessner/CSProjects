@@ -11,3 +11,12 @@
     align-items: center;
 }
 
+
+#home_page p, 
+#welcome-to-honors-cs-projects /*hack*/
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+

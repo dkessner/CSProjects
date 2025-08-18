@@ -1,5 +1,7 @@
 # Honors CS Projects 2025-26
 
+[Live link](https://dkessner.github.io/CSProjects/)
+
 ## Setup
 
 Virtual environment 

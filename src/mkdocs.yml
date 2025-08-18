@@ -12,7 +12,6 @@ extra_css:
 
 nav:
   - Home: index.md
-  - welcome.md
   - project_ideas.md
   - syllabus.md
   - course_expectations.md

@@ -22,6 +22,8 @@ innovation in education.
 
 The previous version of this website used
 [JupyterBook](https://jupyterbook.org/en/stable/intro.html).     
+
+[CSProjects 2023-25 website](https://dkessner.github.io/CSProjects_2023-25/)  
 [CSProjects 2023-25 repo](https://github.com/dkessner/CSProjects_2023-25)    
 
 The previous previous version of this website used the

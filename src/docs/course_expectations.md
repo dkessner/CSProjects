@@ -1,5 +1,13 @@
 # Course Expectations
 
+__Honors Computer Science Projects__  
+__2025-26__  
+__Dr. Kessner__  
+__Marlborough School, Los Angeles__  
+
+__Free periods: CE in D215__
+
+
 ## Assignments and Grading
 
 Your grade will be based on managing your software projects, and delivering

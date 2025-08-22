@@ -20,14 +20,14 @@ Hello CS Projects coders!
 This class is for you to explore new areas of computer science, and to work on
 projects that are interesting to you.
 
-Some opportunities we will have this year:
+Some ideas:
 
 - video projections for the All School Dance Concert, in collaboration with our
   student dancers and choreographers
 
 - special effects for the theater productions
 
-- interactive US election 2024 map
+- interactive data visualization in collaboration with the UltraViolet
 
 - anything else you're interested in!
 

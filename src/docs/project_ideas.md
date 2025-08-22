@@ -37,8 +37,8 @@ to be used during the performances.
 
 ## Past Projects - Data Analysis and Visualization
 
-[Interactive 2024 Election Map - Nola '25](https://nolad25.github.io/CSProjects/)
-[p5.js prototype](https://dkessner.github.io/usmap/)
+[Interactive 2024 Election Map - Nola '25](https://nolad25.github.io/CSProjects/)  
+[Election Map prototype](https://dkessner.github.io/usmap/)
 
 
 [LA Food Policy Council - Wyeth '24, Chesney '23](http://wyethr.github.io/lafpc)  

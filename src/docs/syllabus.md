@@ -1,13 +1,8 @@
 # Syllabus
 
-__Honors Computer Science Projects__  
-__2025-26__  
-__Dr. Kessner__  
-__Marlborough School, Los Angeles__  
-
-__Free periods: CE in D215__
-
 ## Course Description
+
+__Honors Computer Science Projects__ 
 
 This course is for students who would like to continue their study of computer
 science beyond AP Computer Science A, and to apply the skills they learned in
@@ -22,7 +17,93 @@ interactive art, simulation, data analysis, scientific applications,
 programming languages, web development, mobile development. Students may enroll
 in this class multiple times for credit. 
 
+## Project Phases
+
+### Client consultation and project scoping
+
+1. Students identify the area where they want to work.  
+   Examples:
+    - video projections / special effects in collaboration with the Performing Arts Department
+    - data visualization in collaboration with the Journalism classes
+    - web development in collaboration with the Social Justice program
+
+
+2. Students are matched with one or more clients / customers.  
+   Examples:
+    - All School Dance Concert: clients are student dancers/choreographers
+    - Journalism: clients are the school newspaper editors
+    - Social Justice: the clients are representatives from local non-profit
+      organizations
+
+3. Students have their first meetings with their clients where they agree on the
+   scope of work and project timeline.
+
+4. Students start a Project Log that includes:
+    - scope of work
+    - timeline
+        - research
+        - design
+        - proof of concept
+        - v1.0 and iteration with feedback
+        - final delivery
+
+5. Students continue to update their Project Logs each week, and they give
+   status updates during Show & Tell in class.  
+
+### Research and Implementation Plan
+
+1. Students research potential ways to design and implement their project.
+   Students consider different options for:
+
+    1. programming language(s) 
+    2. software libraries
+    3. hardware requirements
+
+    For example, for software projects involving video input, students might use
+    Java, Javascript, or Python, depending on the specific application.  For web
+    development, students generally use Javascript, but also have the option to
+    build static sites with Python.
+
+2. Students formalize their implementation plan as part of their Project Status
+document.  The students meet with their clients to explain their plan (on a
+high level).  Students present their plan in more detail in class to their
+classmates, to get feedback and ideas about implementation.
+
+### Implementation and Iteration
+
+In this phase of the project, students actually write the code for the
+project.  
+
+1. Students keep all project work in a GitHub repository.  
+
+2. Students give regular updates on their project status in class.  
+
+3. After creating a proof-of-concept, students start regular meetings with
+   their client to show their progress and to incorporate client feedback.  
+
+
+### Final Delivery
+
+1. The student delivers the final project to the client. For many projects,
+   this involves a public performance (e.g. dance concerts, theater
+   productions).   For example, for collaborations with the Visual Arts
+   department, this involves running their video projections at the All School
+   Dance Concert or during theater productions.  For Journalism collaborations,
+   this involves ensuring that they meet all deadlines for the production of
+   their issues.  For Social Justice collaborations, this involves a final
+   client meeting to deliver the website or data visualization.  
+
+2. In all cases, students also present their final projects in 3 ways:
+    - attendance at the Celebration of Innovation event at the end of the school year
+    - project poster to showcase their work
+    - video walkthrough of the project, where they give a demonstration of the
+      project and also describe design and implementation details.
+
+
 ## Learning Targets 
+
+Students are assessed on the following learning targets during their regularly
+scheduled code reviews (Show & Tell).
 
 ### Discipline-Specific Conceptual Knowledge
 
@@ -58,7 +139,7 @@ incorporate feedback.
     - final presentation / performance
 
 
-## Collaboration
+### Collaboration
 
 Working on projects with classmates, and also collaborate with students in
 other fields (e.g. social sciences, community partnerships, performing and
@@ -77,7 +158,7 @@ visual arts, scientific research)
     - final presentation / performance
 
 
-## Agency, Leadership & Professionalism
+### Agency, Leadership & Professionalism
 
 Managing projects by tracking progress on features and bugs, and
 prioritizing and scheduling coding tasks.
@@ -94,7 +175,7 @@ prioritizing and scheduling coding tasks.
     - final presentation / performance
 
 
-## Design Process
+### Design Process
 
 Using design thinking to model and break down problems. Learning to
 create and implement useful abstractions, and prototype and evaluate
@@ -112,7 +193,7 @@ solutions.
     - final presentation / performance
 
 
-### Reference
+## Reference
 
 (From the California Computer Science K-12 Standards)
 

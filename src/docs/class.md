@@ -1,6 +1,6 @@
 # Class
 
-## Textbooks
+## Textbook
 
 - [Darren Kessner, Practical Coding in Python](https://dkessner.github.io/csbook/python/)
 

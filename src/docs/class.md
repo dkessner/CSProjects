@@ -18,8 +18,8 @@
 
 |Week|Date  |#|Topics|
 |----|------|-|------|
-|1   |Aug 25|3|GitHub repo setup <br> Python Unit 1 <br> [Coding Assignment 1](https://dkessner.github.io/csbook/python/coding-exercises-functions-and-testing.html#coding-exercises-functions-and-testing)|
-|2   |Sep 1 |2||
+|1   |Aug 25|3|GitHub repo setup <br> Python Chapters 1-2 <br> [Coding Assignment 1](https://dkessner.github.io/csbook/python/coding-exercises-functions-and-testing.html#coding-exercises-functions-and-testing) <br> [Coding Assignment 2](https://dkessner.github.io/csbook/python/coding-exercises-strings-and-math.html#coding-exercises-strings-and-math)|
+|2   |Sep 1 |2|Python Appendix A, Chapter 3 <br> [Appendix A Exercises](https://dkessner.github.io/csbook/python/exercises-installing-and-using-libraries.html#exercises-installing-and-using-libraries)<br> [Coding Assignment 3](https://dkessner.github.io/csbook/python/coding-exercises-loops-and-algorithms.html#coding-exercises-loops-and-algorithms)|
 |3   |Sep 8 |2||
 |4   |Sep 15|2||
 |5   |Sep 22|2||

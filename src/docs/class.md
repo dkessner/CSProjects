@@ -18,9 +18,9 @@
 
 |Week|Date  |#|Topics|
 |----|------|-|------|
-|1   |Aug 25|3|GitHub repo setup <br> Python Chapters 1-2 <br> [Coding Assignment 1](https://dkessner.github.io/csbook/python/coding-exercises-functions-and-testing.html#coding-exercises-functions-and-testing) <br> [Coding Assignment 2](https://dkessner.github.io/csbook/python/coding-exercises-strings-and-math.html#coding-exercises-strings-and-math)|
-|2   |Sep 1 |2|Python Appendix A, Chapter 3 <br> [Appendix A Exercises](https://dkessner.github.io/csbook/python/exercises-installing-and-using-libraries.html#exercises-installing-and-using-libraries)<br> [Coding Assignment 3](https://dkessner.github.io/csbook/python/coding-exercises-loops-and-algorithms.html#coding-exercises-loops-and-algorithms)|
-|3   |Sep 8 |2||
+|1   |Aug 25|3|GitHub repo setup <br> [Python Chapter 1 exercises (Functions and Testing)](https://dkessner.github.io/csbook/python/coding-exercises-functions-and-testing.html) <br> [Python Chapter 2 exercises (Strings and Math)](https://dkessner.github.io/csbook/python/coding-exercises-strings-and-math.html)|
+|2   |Sep 1 |2|[Python Appendix A exercises (Virtual Environments)](https://dkessner.github.io/csbook/python/exercises-installing-and-using-libraries.html)<br> [Python Chapter 3 exercises (Loops and Algorithms)](https://dkessner.github.io/csbook/python/coding-exercises-loops-and-algorithms.html)|
+|3   |Sep 8 |2|[Python Chapter 4 exercises (Classes and Objects)](https://dkessner.github.io/csbook/python/coding-exercises-classes-and-objects.html)|
 |4   |Sep 15|2||
 |5   |Sep 22|2||
 |6   |Sep 29|2||
